@@ -38,9 +38,6 @@ O Projetinho é minha versão do projeto DevLinks, desenvolvido pela RocketSeat,
 
 Você pode visualizar o layout do projeto original da RocketSeat através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
