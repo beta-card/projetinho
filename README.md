@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projetinho é minha versão do projeto DevLinks, desenvolvido pela RocketSeat, que é um projeto agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://beta-card.github.io/projetinho)
+- [Acesse o projeto finalizado, online](http://127.0.0.7:5500/.vscode/index.html)
 
 ## 🔖 Layout
 
